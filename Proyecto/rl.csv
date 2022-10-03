@@ -1,0 +1,3 @@
+"Classifier","macro Precision","macro Recall","macro F1"
+"RL House-chores F",0.97,0.96,0.96
+"RL Economics",0.89,0.89,0.89

@@ -1,0 +1,3 @@
+"Classifier","Precision","Accuracy","Recall","macro F1"
+"Decision Tree 1",0.97,0.96,0.96,0.96
+"Decision Tree 2",0.97,0.96,0.96,0.96
